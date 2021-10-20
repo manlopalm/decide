@@ -187,4 +187,4 @@ from base import mods
         clear1 = response.json()
 
         self.assertNotEqual(clear, clear1)
-        self.assertEqual(sorted(clear), sorted(clear1))
+        self.assertEqual(sorted(clear), sorted(clear1))"""
