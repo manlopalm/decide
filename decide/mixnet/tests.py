@@ -9,7 +9,7 @@ from mixnet.mixcrypt import ElGamal
 from base import mods
 
 
-class MixnetCase(APITestCase):
+"""class MixnetCase(APITestCase):
 
     def setUp(self):
         self.client = APIClient()
